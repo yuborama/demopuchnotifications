@@ -1,0 +1,7 @@
+{
+  "name": "demoNotification",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
