@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177669242930",
+    "project_id": "pruebaihs-1838c",
+    "storage_bucket": "pruebaihs-1838c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177669242930:android:56997ca59688858e5c7c2b",
+        "android_client_info": {
+          "package_name": "Q7UX8PB22J.com.infinityhomeservices.ihsproduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177669242930-vuiopd3rcumh90bc915lu30nr2nebakn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALpObwTghpWHN8qwNpUkxXUIL1ssYhnSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177669242930-vuiopd3rcumh90bc915lu30nr2nebakn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
